@@ -2,6 +2,4 @@
 
 Hey! Welcome to my first assignment
 
-It's fun CLI app made using Repl.it
-
-This code is written in NodeJS
+This is a CLI app buid using nodeJS and javascript. In this CHALK is used for styling. This is just a fun quiz app which you can edit and share with your friend to know who khows you the best!
